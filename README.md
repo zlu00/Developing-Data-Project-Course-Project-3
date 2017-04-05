@@ -27,7 +27,7 @@ The Shiny application in question is entirely up to you. However, if you're havi
 ## Your Reproducible Pitch Presentation
 
 The presentation is at:
-
+http://rpubs.com/zlu00/265445
 
 OK, you've made your shiny app, now it's time to make your pitch. You get 5 slides (inclusive of the title slide) to pitch a your app. You're going to create a web page using Slidify or Rstudio Presenter with an html5 slide deck.
 
